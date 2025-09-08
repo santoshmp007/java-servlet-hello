@@ -37,7 +37,7 @@
     </dependencies>
 
     <build>
-        <finalName>hello</finalName> <!-- This makes the WAR name 'hello.war' -->
+        <finalName>qprofile</finalName> <!-- This makes the WAR name 'qprofile.war' -->
         <plugins>
             <!-- Maven WAR Plugin -->
             <plugin>
